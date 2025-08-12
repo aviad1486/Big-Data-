@@ -67,4 +67,4 @@ Applies image classification using:
 ---
 
 ## ⚙️ How to Run
-All notebooks and installations are built in Jupyter. Make sure to install the following key dependencies:
+All notebooks and installations are built in Jupyter. 
